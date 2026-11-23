@@ -105,8 +105,8 @@ Các chức năng chưa được triển khai:
 -   Tên đề tài: Website XT Hobby store
 -   Người thực hiện: Tống Xuân Thành
 -   Lớp: CNTT 20-02
--   Repository GitHub: \[https://github.com/Thanhtong-255/web-ban-mo-hinh.git\]
--   Website: \[https://thanhtong-255.github.io/web-ban-mo-hinh/\]
+-   Repository GitHub: \[https://github.com/Thanhtong-255/web-model-kit.git\]
+-   Website: \[https://thanhtong-255.github.io/web-model-kit/\]
 
 ## 10. Kết luận
 
